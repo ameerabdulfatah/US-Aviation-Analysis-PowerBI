@@ -1,5 +1,7 @@
 U.S. Aviation Infrastructure Analysis - Power BI Project
+
 Project Overview
+
 This project involves the analysis of the Aviation Facilities dataset, a comprehensive database of all official aerodromes in the United States, sourced from the U.S. Department of Transportation (USDOT) / Bureau of Transportation Statistics (BTS) National Transportation Atlas Database (NTAD). The data is updated every 28 days from the Federal Aviation Administration (FAA).
 
 The goal of this project was to develop a three-page Power BI dashboard to provide a holistic view of the aviation landscape, moving from a high-level geographic overview to a deep, actionable analysis of risk, safety, and facility capabilities.
