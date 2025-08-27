@@ -7,9 +7,11 @@ This project involves the analysis of the Aviation Facilities dataset, a compreh
 The goal of this project was to develop a three-page Power BI dashboard to provide a holistic view of the aviation landscape, moving from a high-level geographic overview to a deep, actionable analysis of risk, safety, and facility capabilities.
 
 Problem Statement
+
 Efficient and safe aviation infrastructure is critical for national transportation and commerce. Airport authorities and federal regulators often lack a unified, interactive tool to assess the operational status, ownership complexities, and potential risks across thousands of airports. This project aims to bridge that gap by creating a dynamic dashboard to support data-driven decision-making for resource allocation, safety oversight, and strategic development.
 
 Data Cleaning & Preprocessing
+
 The raw dataset, while comprehensive, required significant preprocessing to be ready for analysis. The initial dataset contained 19,952 rows and 93 columns. The cleaning process, documented in the provided Jupyter Notebook (Aviation_Project.ipynb), involved several key steps:
 
 Handling Missing Values:
@@ -29,7 +31,7 @@ Calculated Inspection Status (DAX): A DAX calculated column, Inspection Status, 
 After cleaning and preprocessing, the final dataset used for the Power BI dashboard consisted of 19,808 rows and 64 columns, with no missing values in the key analytical fields.
 
 Dashboard Deep Dive
-(This section remains the same as before, detailing the purpose and insights of each of the three pages.)
+
 
 Page 1: U.S. Aviation: Geographic & Ownership Overview
 Purpose: To provide a high-level, geographic snapshot of all aviation facilities, answering the questions "Where are the airports?" and "Who owns them?".
@@ -53,6 +55,7 @@ Airports with a military presence (Joint-Use) are proportionally far more likely
 Charging landing fees is a common practice for Private and Public airports but is extremely rare for military facilities.
 
 Tools Used
+
 Python (Pandas): For initial data cleaning and preprocessing.
 
 Microsoft Power BI: Power Query for final transformations, DAX for calculated columns, and report building for visualizations.
