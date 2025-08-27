@@ -59,3 +59,4 @@ Tools Used
 Python (Pandas): For initial data cleaning and preprocessing.
 
 Microsoft Power BI: Power Query for final transformations, DAX for calculated columns, and report building for visualizations.
+https://app.powerbi.com/links/Qd1WvnryaZ?ctid=00f9cda3-075e-44e5-aa0b-aba3add6539f&pbi_source=linkShare
